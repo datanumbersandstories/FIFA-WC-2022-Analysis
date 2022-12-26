@@ -1,0 +1,12 @@
+scrapy
+selenium
+webdriver_manager
+scrapy-selenium
+pymongo
+dnspython
+
+matplotlib
+matplotlib-inline
+numpy
+plotly
+streamlit
